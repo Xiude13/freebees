@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>folder-download.png</file>
+    <file>bell-ring (1).png</file>
+    <file>bell-ring.png</file>
+    <file>cloud-download-alt-2.png</file>
+    <file>cloud-download-alt.png</file>
+    <file>folder-download.png</file>
+    <file>min.png</file>
+    <file>quit.png</file>
+    <file>bell-ring (1).png</file>
+    <file>bell-ring.png</file>
+    <file>settings.png</file>
+    <file>quit.png</file>
+    <file>cloud-download-alt-2.png</file>
+    <file>min.png</file>
+    <file>settings.png</file>
+    <file>cloud-download-alt.png</file>
+  </qresource>
+</RCC>
